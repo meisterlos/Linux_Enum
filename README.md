@@ -1,13 +1,22 @@
 Merhabalar yazdığım aracı kısaca özetliyeyim. Pentest sırasında bir linux cihazın içerisine girdikten sonra kullanılması gereken bir tool'dur ve cihaz ile alakalı bilgileri bize getirmektedir. 
 Getirmiş olduğu veriler
+
 IP adresleri
+
 Yerel kullanıcılar
+
 Kurulu paketler ve versiyonları
+
 Bağlantı noktalarını ve ağ hizmetlerini açın
+
 Bash'in geçmişi
+
 İzin verilen sudo'ların listesi
+
 Çalışan işlemler
+
 Yükseltilmiş ayrıcalıklarla çalışan işlemler
+
 Ortam Değişkenleri
 
 Aracı kullanmak için python "linux_enum" diyerek çalıştırın.
